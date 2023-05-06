@@ -1,4 +1,4 @@
-# fac.github.com
+# slovae.github.com
 a website directed for college students
 
 ## How to contribute on this repo
