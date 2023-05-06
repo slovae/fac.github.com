@@ -1,0 +1,42 @@
+/*stylesheet for contact*/
+
+.conMail{
+display: block;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #fff;
+font-size: 20px;
+text-align: center;
+}
+
+.conMail p{
+font-size: 25px;
+font-family: bebas;
+margin-bottom: 0px;
+}
+
+.conMail a{
+color: red;
+text-decoration: none;
+}
+
+.conNum {
+display: block;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #fff;
+font-size: 20px;
+text-align: center;
+}
+
+.conNum p{
+font-size: 25px;
+font-family: bebas;
+margin-bottom: 0px;
+}
+
+.conNum a{
+color: red;
+text-decoration: none;
+}
+
