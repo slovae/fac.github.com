@@ -18,62 +18,6 @@
   transition: 0.3s;
 }
 
-a{
-}
-
-/*li {
-
-list-style-type: none;
-}
-*/
-  @media screen and (max-width: 480px){
-.cours li{
-  font-size: 30px; !important
-  display: block; !important
-  margin: 10px; !important
-  margin-left: 50px; !important
-  margin-right: 50px; !important
-}
-.td li {
-  font-size: 30px; !important
-  display: block; !important
-  margin: 10px; !important
-  margin-left: 50px; !important
-  margin-right: 50px; !important
-
-}
-
-.examens li {
-  font-size: 30px; !important
-  display: block; !important
-  margin: 10px; !important
-  margin-left: 50px; !important
-  margin-right: 50px; !important
-}
-
-.solExamens li {
-  font-size: 30px; !important
-  display: block; !important
-  margin: 10px; !important
-  margin-left: 50px; !important
-  margin-right: 50px; !important
-}
-}
-
-
-@media screen and (max-width: 480px){
-.algbH{
-  font-size: 30px;
-}
-}
-
-@media screen and (max-width: 480px){
-.hh3{
-font-size: 40px;
-}
-
-}
-
 .td {
 	   margin: 40px;
      margin-left: 75px;
@@ -140,4 +84,51 @@ margin: 20px;
 height: 2px;
 border: none;
 padding: -1px;
+}
+
+  @media screen and (max-width: 480px){
+.cours li{
+  font-size: 25px; !important
+  display: block; !important
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px; !important
+  margin-right: 0px; !important
+}
+.td li {
+  font-size: 25px; !important
+  display: block; !important
+  margin-bottom: 10px;
+  margin-top: 10px; !important
+  margin-left: 0px; !important
+  margin-right: 0px; !important
+
+}
+
+.examens li {
+  font-size: 25px; !important
+  display: block; !important
+  margin-top: 10px;
+  margin-bottom: 10px; !important
+  margin-left: 0px; !important
+  margin-right: 0px; !important
+}
+
+.solExamens li {
+  font-size: 23px; !important
+  display: block; !important
+  margin-top: 10px; !important
+  margin-bottom: 15px;
+  margin-left: 0px; !important
+  margin-right: 0px; !important
+}
+
+.algbH{
+  font-size: 30px;
+}
+
+.hh3{
+font-size: 30px;
+}
+
 }
